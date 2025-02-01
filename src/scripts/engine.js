@@ -1,0 +1,7 @@
+const state= {
+
+View:{},
+values:{},
+};
+
+
