@@ -5,6 +5,27 @@
     background-image: url(../imagens/wall.png);
 }
 
+#liga {
+    
+    width: 40px;
+    height: 30px;
+    background-image: url(../imagens/audio\ on.png);
+    background-size: cover;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+}
+#desliga {
+    
+    width: 40px;
+    height: 30px;
+    background-image: url(../imagens/audio\ off.png);
+    background-size: cover;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+}
+
 .container .titulo-menu h2 {
 margin-top: 10px;
 }
